@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><TargetFramework>net6.0</TargetFramework><Nullable>disable</Nullable><ImplicitUsings>disable</ImplicitUsings><AssemblyName>gregMod.CableThrottle</AssemblyName><RootNamespace>CableThrottle</RootNamespace><Platforms>x64</Platforms><AllowUnsafeBlocks>true</AllowUnsafeBlocks></PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MelonLoader" HintPath="references/MelonLoader.dll" Private="false" /><Reference Include="Il2CppInterop.Runtime" HintPath="references/Il2CppInterop.Runtime.dll" Private="false" /><Reference Include="0Harmony" HintPath="references/0Harmony.dll" Private="false" /><Reference Include="Il2Cppmscorlib" HintPath="references/Il2Cppmscorlib.dll" Private="false" /><Reference Include="gregCore" HintPath="references/gregCore.dll" Private="false" /><Reference Include="Assembly-CSharp" HintPath="references/Assembly-CSharp.dll" Private="false" /><Reference Include="UnityEngine.CoreModule" HintPath="references/UnityEngine.CoreModule.dll" Private="false" /><Reference Include="UnityEngine.IMGUIModule" HintPath="references/UnityEngine.IMGUIModule.dll" Private="false" /><Reference Include="Unity.Entities" HintPath="references/Unity.Entities.dll" Private="false" /><Reference Include="Unity.Collections" HintPath="references/Unity.Collections.dll" Private="false" />
+  </ItemGroup>
+</Project>
