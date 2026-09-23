@@ -6,6 +6,7 @@
 
 ## Links
 
+- **Steam Workshop:** [My Workshop (Data Center)](https://steamcommunity.com/id/frikadelle3000/myworkshopfiles/?appid=4170200)
 - **Repository:** [https://github.com/mleem97/gregMod.CableThrottle](https://github.com/mleem97/gregMod.CableThrottle)
 - **Issues:** [https://github.com/mleem97/gregMod.CableThrottle/issues](https://github.com/mleem97/gregMod.CableThrottle/issues)
 - **Releases:** [https://github.com/mleem97/gregMod.CableThrottle/releases](https://github.com/mleem97/gregMod.CableThrottle/releases)
