@@ -8,7 +8,7 @@ using Unity.Collections;
 using Unity.Entities;
 using UnityEngine;
 
-[assembly: MelonInfo(typeof(CableThrottle.CableThrottleMod), "gregMod.CableThrottle", "1.4.0", "TeamGreg Modding")]
+[assembly: MelonInfo(typeof(CableThrottle.CableThrottleMod), "gregMod.CableThrottle", "1.4.1", "TeamGreg Modding")]
 [assembly: MelonGame("Waseku", "Data Center")]
 
 namespace CableThrottle
