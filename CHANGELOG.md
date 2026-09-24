@@ -1,13 +1,13 @@
 # Changelog — gregMod.CableThrottle
 
-Format: [Keep a Changelog](https://keepachangelog.com/de/1.0.0/). Version: siehe [`VERSION`](VERSION).
+Format: [Keep a Changelog](https://keepachangelog.com/de/1.0.0/). Version: see [`VERSION`](VERSION).
 
 ## [Unreleased]
 
 ### Added
 
-- Einheitliches Open-Source-Layout (README, Docs, Badges) nach gregCore-Vorbild.
+- Unified open-source layout (README, docs, badges) following the gregCore template.
 
 ## [0.1.0] — 2026-09-22
 
-- Initialer standardisierter Stand.
+- Initial standardized baseline.
