@@ -7,6 +7,7 @@ using MelonLoader;
 using Unity.Collections;
 using Unity.Entities;
 using UnityEngine;
+[assembly: System.Runtime.CompilerServices.InternalsVisibleTo("ModCoverage.Tests")]
 
 [assembly: MelonInfo(typeof(CableThrottle.CableThrottleMod), "gregMod.CableThrottle", "1.4.1", "TeamGreg Modding")]
 [assembly: MelonGame("Waseku", "Data Center")]
